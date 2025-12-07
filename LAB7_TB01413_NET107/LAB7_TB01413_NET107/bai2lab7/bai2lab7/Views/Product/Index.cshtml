@@ -1,0 +1,137 @@
+﻿@model IEnumerable<Lab7Bai2.Models.Product>
+
+@{
+    ViewData["Title"] = "Sản phẩm";
+    var shopFor = Model.Take(6).ToList();
+    var featured = Model.Skip(6).Take(5).ToList();
+}
+
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+
+<style>
+    body {
+        background: #f4f6fb;
+    }
+
+    .page-wrapper {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .section-title {
+        font-weight: 700;
+        letter-spacing: 1px;
+        font-size: 20px;
+        margin-bottom: 18px;
+    }
+
+    .card-soft {
+        background: #ffffff;
+        border-radius: 14px;
+        box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+    }
+
+    .shop-item {
+        border-radius: 14px;
+        padding: 18px 10px;
+        transition: all .2s ease-in-out;
+        cursor: pointer;
+        height: 160px;
+    }
+
+        .shop-item img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            margin-bottom: 8px;
+        }
+
+        .shop-item:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 28px rgba(15, 23, 42, 0.12);
+        }
+
+    .shop-item-name {
+        font-size: 14px;
+        font-weight: 500;
+        color: #111827;
+    }
+
+    .featured-item {
+        padding: 12px;
+        transition: all .2s ease-in-out;
+        border-radius: 14px;
+        cursor: pointer;
+    }
+
+        .featured-item img {
+            width: 100%;
+            height: 150px;
+            object-fit: contain;
+        }
+
+        .featured-item:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 28px rgba(15, 23, 42, 0.12);
+            background: #ffffff;
+        }
+
+    .featured-name {
+        margin-top: 8px;
+        font-size: 13px;
+        min-height: 32px;
+    }
+
+    .featured-price {
+        font-weight: 700;
+        font-size: 14px;
+        color: #111827;
+    }
+
+    .featured-badge {
+        font-size: 11px;
+        color: #64748b;
+    }
+</style>
+
+<div class="container page-wrapper">
+    <div class="card-soft p-4 mb-4">
+        <div class="section-title">SHOP FOR</div>
+        <div class="row g-3 mb-2">
+            @foreach (var p in shopFor)
+            {
+                <div class="col-6 col-sm-4 col-md-2 text-center">
+                    <a asp-action="Details" asp-route-id="@p.Id" style="text-decoration:none;">
+                        <div class="shop-item">
+                            <img src="@p.ImageUrl" alt="@p.Name" />
+                            <div class="shop-item-name">@p.Name</div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+
+    <div class="card-soft p-4">
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <div class="section-title mb-0">FEATURED COLLECTION</div>
+        </div>
+        <div class="row g-3 mt-1">
+            @foreach (var p in featured)
+            {
+                <div class="col-6 col-md-3 col-lg-2 text-center">
+                    <a asp-action="Details" asp-route-id="@p.Id" style="text-decoration:none; color:inherit;">
+                        <div class="featured-item">
+                            <img src="@p.ImageUrl" alt="@p.Name" />
+                            <div class="featured-name">@p.Name</div>
+                            <div class="featured-price">
+                                @p.Price.ToString("$#,0.00")
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>

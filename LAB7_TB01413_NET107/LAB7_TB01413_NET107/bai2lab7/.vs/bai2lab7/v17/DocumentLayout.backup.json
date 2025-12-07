@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|d:\\lab7_tb01413_net107\\lab7_tb01413_net107\\bai2lab7\\bai2lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2350BBE8-1D13-4F82-BB02-F4EA140FA3A3}|bai2lab7\\bai2lab7.csproj|solutionrelative:bai2lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "bai2lab7\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "bai2lab7\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:54:41.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "bai2lab7\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "bai2lab7\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T12:57:00.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "bai2lab7\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "bai2lab7\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T12:56:58.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\appsettings.json",
+              "RelativeDocumentMoniker": "bai2lab7\\appsettings.json",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\appsettings.json",
+              "RelativeToolTip": "bai2lab7\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T12:43:13.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "bai2lab7\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "bai2lab7\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:54:45.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "bai2lab7\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "bai2lab7\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwGQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T12:45:41.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "bai2lab7\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "bai2lab7\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T12:45:14.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "bai2lab7\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "bai2lab7\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T12:44:06.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "bai2lab7\\Models\\Product.cs",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Models\\Product.cs",
+              "RelativeToolTip": "bai2lab7\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T12:43:53.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Program.cs",
+              "RelativeDocumentMoniker": "bai2lab7\\Program.cs",
+              "ToolTip": "D:\\LAB7_TB01413_NET107\\LAB7_TB01413_NET107\\bai2lab7\\bai2lab7\\Program.cs",
+              "RelativeToolTip": "bai2lab7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T12:43:06.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
