@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<div class="container mt-5">
+    <div class="jumbotron p-5 bg-light rounded-3 shadow">
+        <h1 class="display-4 @(ViewBag.LoggedIn ? "text-success" : "text-secondary")">
+            @(ViewBag.Greeting)
+        </h1>
+        <p class="lead">Bài 3: Sử dụng Cookies để ghi nhớ tên người dùng.</p>
+        <hr class="my-4">
+
+        @if (ViewBag.LoggedIn)
+        {
+            <p>
+                Tên của bạn đang được ghi nhớ bằng Cookies (tồn tại 7 ngày).
+            </p>
+            <a asp-controller="Account" asp-action="Logout" class="btn btn-danger btn-lg">Đăng Xuất (Hủy Cookie)</a>
+        }
+        else
+        {
+            <p>
+                Hãy đăng nhập để chúng tôi ghi nhớ tên của bạn trong lần truy cập sau.
+            </p>
+            <a asp-controller="Account" asp-action="Login" class="btn btn-primary btn-lg">Đăng Nhập</a>
+        }
+    </div>
+</div>

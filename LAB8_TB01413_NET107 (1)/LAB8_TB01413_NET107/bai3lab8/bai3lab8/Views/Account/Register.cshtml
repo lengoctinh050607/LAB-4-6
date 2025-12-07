@@ -1,0 +1,66 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Đăng Ký Thành Viên";
+    Layout = "_Layout";
+}
+
+<style>
+    .register-container {
+        padding: 40px;
+        border-radius: 10px;
+        box-shadow: 0 4px 15px rgba(40, 167, 69, 0.15);
+        background-color: #fff;
+    }
+
+    .form-control:focus {
+        border-color: #28a745;
+        box-shadow: 0 0 0 0.25rem rgba(40, 167, 69, 0.25);
+    }
+
+    .btn-success {
+        background: linear-gradient(45deg, #28a745, #1e7e34);
+        border: none;
+        transition: transform 0.2s;
+    }
+
+        .btn-success:hover {
+            transform: translateY(-2px);
+        }
+</style>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <h2 class="text-center text-success mb-4 fw-light">✍️ Tạo Tài Khoản Mới</h2>
+
+            <div class="register-container">
+                <form asp-action="Register" method="post">
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="Username" class="form-control" placeholder="Tên người dùng" required />
+                        <label asp-for="Username">Tên người dùng</label>
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-floating mb-4">
+                        <input asp-for="Password" class="form-control" type="password" placeholder="Mật khẩu" required />
+                        <label asp-for="Password">Mật khẩu</label>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-success w-100 py-3 fw-bold">Đăng Ký</button>
+                </form>
+            </div>
+
+            <p class="text-center mt-4">
+                Đã có tài khoản? <a asp-action="Login" class="text-decoration-none fw-bold">Đăng nhập</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

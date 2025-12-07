@@ -1,0 +1,66 @@
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\appsettings.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.staticwebassets.runtime.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.staticwebassets.endpoints.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.exe
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.deps.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.runtimeconfig.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.dll
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.pdb
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.AssemblyInfo.cs
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.RazorAssemblyInfo.cache
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.RazorAssemblyInfo.cs
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\scopedcss\bundle\bai1lab8.styles.css
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\scopedcss\projectbundle\bai1lab8.bundle.scp.css
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.dll
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\refint\bai1lab8.dll
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.pdb
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.genruntimeconfig.cache
+C:\Users\pc\Downloads\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\ref\bai1lab8.dll
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\appsettings.Development.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\appsettings.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.staticwebassets.endpoints.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.staticwebassets.runtime.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.exe
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.deps.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.runtimeconfig.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.dll
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\bin\Debug\net8.0\bai1lab8.pdb
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.AssemblyInfoInputs.cache
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.AssemblyInfo.cs
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.csproj.CoreCompileInputs.cache
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.MvcApplicationPartsAssemblyInfo.cache
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.RazorAssemblyInfo.cache
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.RazorAssemblyInfo.cs
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\scopedcss\bundle\bai1lab8.styles.css
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\scopedcss\projectbundle\bai1lab8.bundle.scp.css
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.build.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.development.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.dll
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\refint\bai1lab8.dll
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.pdb
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\bai1lab8.genruntimeconfig.cache
+D:\LAB8_TB01413_NET107 (1)\LAB8_TB01413_NET107\bai1lab8\bai1lab8\obj\Debug\net8.0\ref\bai1lab8.dll

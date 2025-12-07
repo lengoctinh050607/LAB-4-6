@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<div class="container mt-5">
+    <div class="jumbotron p-5 bg-light rounded-3 shadow">
+        <h1 class="display-4 text-success">
+            @(ViewBag.Greeting)
+        </h1>
+        <p class="lead">Demo Bài 2: Session Login (Hết hạn 10 phút).</p>
+        <hr class="my-4">
+
+        @if (ViewBag.LoggedIn)
+        {
+            <p>
+                <strong>Email đăng nhập:</strong> <span class="text-primary">@ViewBag.SessionEmail</span>
+                <br />
+                <strong>Thông tin Session:</strong> Phiên này sẽ hết hạn sau 10 phút không hoạt động.
+            </p>
+            <a asp-controller="Account" asp-action="Logout" class="btn btn-danger btn-lg">Đăng Xuất (Hủy Session)</a>
+        }
+    </div>
+</div>

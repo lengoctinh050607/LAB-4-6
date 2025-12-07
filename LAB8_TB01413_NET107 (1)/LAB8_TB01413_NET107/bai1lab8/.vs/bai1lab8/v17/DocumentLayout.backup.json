@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|d:\\lab8_tb01413_net107 (1)\\lab8_tb01413_net107\\bai1lab8\\bai1lab8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|solutionrelative:bai1lab8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|d:\\lab8_tb01413_net107 (1)\\lab8_tb01413_net107\\bai1lab8\\bai1lab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|solutionrelative:bai1lab8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|d:\\lab8_tb01413_net107 (1)\\lab8_tb01413_net107\\bai1lab8\\bai1lab8\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|solutionrelative:bai1lab8\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|d:\\lab8_tb01413_net107 (1)\\lab8_tb01413_net107\\bai1lab8\\bai1lab8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|solutionrelative:bai1lab8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|d:\\lab8_tb01413_net107 (1)\\lab8_tb01413_net107\\bai1lab8\\bai1lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|solutionrelative:bai1lab8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|d:\\lab8_tb01413_net107 (1)\\lab8_tb01413_net107\\bai1lab8\\bai1lab8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|solutionrelative:bai1lab8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|d:\\lab8_tb01413_net107 (1)\\lab8_tb01413_net107\\bai1lab8\\bai1lab8\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|solutionrelative:bai1lab8\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|d:\\lab8_tb01413_net107 (1)\\lab8_tb01413_net107\\bai1lab8\\bai1lab8\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DEED96C-6C0C-49B3-8282-419C10A4A49C}|bai1lab8\\bai1lab8.csproj|solutionrelative:bai1lab8\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\appsettings.json",
+              "RelativeDocumentMoniker": "bai1lab8\\appsettings.json",
+              "ToolTip": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\appsettings.json",
+              "RelativeToolTip": "bai1lab8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T07:35:43.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "bai1lab8\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "bai1lab8\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T07:35:42.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "bai1lab8\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "bai1lab8\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T07:35:40.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "bai1lab8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "bai1lab8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T13:21:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Program.cs",
+              "RelativeDocumentMoniker": "bai1lab8\\Program.cs",
+              "ToolTip": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Program.cs",
+              "RelativeToolTip": "bai1lab8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:20:54.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "bai1lab8\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "bai1lab8\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T13:20:46.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "bai1lab8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "bai1lab8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T13:20:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "bai1lab8\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LAB8_TB01413_NET107 (1)\\LAB8_TB01413_NET107\\bai1lab8\\bai1lab8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "bai1lab8\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:20:14.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
