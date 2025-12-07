@@ -1,0 +1,36 @@
+﻿@model bai2lab6.Models.Product
+
+@{
+    ViewData["Title"] = "Cập nhật sản phẩm";
+}
+
+<h3 class="mb-3">Cập nhật sản phẩm</h3>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-controller="Product" asp-action="Edit" asp-route-id="@Model.Id" method="post">
+
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group mb-3">
+                <label class="form-label fw-bold">Tên sản phẩm</label>
+                <input asp-for="Name" class="form-control" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="form-label fw-bold">Giá bán</label>
+                <input asp-for="Price" type="number" class="form-control" required />
+            </div>
+
+            <div class="form-group mt-4">
+                <button type="submit" class="btn btn-warning text-white fw-bold">
+                    <i class="fa-solid fa-save"></i> CẬP NHẬT
+                </button>
+                <a asp-controller="Product" asp-action="Index" class="btn btn-light border">
+                    <i class="fa-solid fa-arrow-left"></i> Quay lại
+                </a>
+            </div>
+        </form>
+    </div>
+</div>

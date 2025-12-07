@@ -1,0 +1,53 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+.card {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+
+.footer {
+    color: #ccc;
+}
+table, table td, table th {
+    color: #f8f9fa !important;
+}
+
+    table thead th {
+        background-color: #1f3b57 !important;
+        color: #ffffff !important;
+    }
+
+    table tbody tr {
+        background-color: #1a1a1a !important;
+    }
+
+        table tbody tr:hover {
+            background-color: #2a2a2a !important;
+        }

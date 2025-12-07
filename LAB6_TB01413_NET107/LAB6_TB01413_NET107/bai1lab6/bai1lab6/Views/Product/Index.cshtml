@@ -1,0 +1,31 @@
+﻿@model List<bai1lab6.Models.Product>
+
+<h2>Danh sách sản phẩm</h2>
+
+<a asp-controller="Product" asp-action="Create" class="btn btn-primary">+ Thêm mới</a>
+
+<table class="table table-bordered mt-3">
+    <tr>
+        <th>ID</th>
+        <th>Tên</th>
+        <th>Giá</th>
+        <th>Tồn kho</th>
+        <th>Hành động</th>
+    </tr>
+
+    @foreach (var item in Model) 
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.Stock</td>
+            <td>
+                <a asp-controller="Product" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Sửa</a>
+                <form asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline">
+                    <button type="submit" class="btn btn-danger">Xóa</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
