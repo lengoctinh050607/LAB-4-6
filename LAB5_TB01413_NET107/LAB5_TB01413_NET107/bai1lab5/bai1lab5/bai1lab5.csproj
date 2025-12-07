@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+    <Folder Include="Views\Shared\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\LTMT-TBDĐ-2.png" />
+    <None Include="wwwroot\Images\ThietKeWebsite.jpg" />
+    <None Include="wwwroot\Images\TKĐH-1.png" />
+    <None Include="wwwroot\Images\UDPM.png" />
+  </ItemGroup>
+
+</Project>

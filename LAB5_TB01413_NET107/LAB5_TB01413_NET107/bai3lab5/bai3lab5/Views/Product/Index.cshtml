@@ -1,0 +1,32 @@
+﻿@model IEnumerable<bai3lab5.Models.Product>
+@{
+    ViewData["Title"] = "Product List";
+}
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<div class="container mt-5">
+    <h1>Product List</h1>
+
+    <p>
+        <a asp-action="Create" class="btn btn-success">Create New Product</a>
+    </p>
+
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
