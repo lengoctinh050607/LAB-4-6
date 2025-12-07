@@ -1,0 +1,16 @@
+﻿@model bai1lab6.Models.Product
+
+<h2>Thêm sản phẩm</h2>
+
+<form asp-action="Create" method="post">
+    <label>Tên sản phẩm:</label>
+    <input asp-for="Name" class="form-control" />
+
+    <label>Giá:</label>
+    <input asp-for="Price" class="form-control" />
+
+    <label>Số lượng tồn:</label>
+    <input asp-for="Stock" class="form-control" />
+
+    <button type="submit" class="btn btn-success mt-2">Lưu</button>
+</form>

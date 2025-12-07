@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|d:\\lab5_tb01413_net107\\lab5_tb01413_net107\\bai2lab5\\bai2lab5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|solutionrelative:bai2lab5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|d:\\lab5_tb01413_net107\\lab5_tb01413_net107\\bai2lab5\\bai2lab5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|solutionrelative:bai2lab5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|d:\\lab5_tb01413_net107\\lab5_tb01413_net107\\bai2lab5\\bai2lab5\\model\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|solutionrelative:bai2lab5\\model\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|d:\\lab5_tb01413_net107\\lab5_tb01413_net107\\bai2lab5\\bai2lab5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|solutionrelative:bai2lab5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|d:\\lab5_tb01413_net107\\lab5_tb01413_net107\\bai2lab5\\bai2lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952C9849-A49F-4A4C-A3DA-E025681CAE47}|Bai2lab5\\Bai2lab5.csproj|solutionrelative:bai2lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2lab5\\Program.cs",
+              "ToolTip": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Program.cs",
+              "RelativeToolTip": "Bai2lab5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:03:48.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai2lab5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bai2lab5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T07:02:02.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bai2lab5\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bai2lab5\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T07:01:42.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bai2lab5\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bai2lab5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:01:09.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Major.cs",
+              "DocumentMoniker": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Model\\Major.cs",
+              "RelativeDocumentMoniker": "Bai2lab5\\Model\\Major.cs",
+              "ToolTip": "D:\\LAB5_TB01413_NET107\\LAB5_TB01413_NET107\\Bai2lab5\\Bai2lab5\\Model\\Major.cs",
+              "RelativeToolTip": "Bai2lab5\\Model\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:00:50.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
